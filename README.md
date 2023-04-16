@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Evan Kamalludin</h1>
 <h3 align="center">Welcome to My Github Profile</h3>
 
-- 👨‍💻 All of my projects are available at [https://evankamalludin18.blogspot.com](https://evankamalludin18.blogspot.com)
+<p align="center">
+👨‍💻 All of my projects are available at [https://evankamalludin18.blogspot.com](https://evankamalludin18.blogspot.com)
 
-- 📫 How to reach me **proudin52@gmail.com**
-
+📫 How to reach me **proudin52@gmail.com**
+</p>
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/evan kamalludin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan kamalludin" height="30" width="40" /></a>
