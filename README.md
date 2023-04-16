@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Evan Kamalludin</h1>
 <h3 align="center">Welcome to My Github Profile</h3>
 
-<p align="center">
 - 👨‍💻 All of my projects are available at [https://evankamalludin18.blogspot.com](https://evankamalludin18.blogspot.com)
 
 - 📫 How to reach me **proudin52@gmail.com**
-</p>
+
+
+
+
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
