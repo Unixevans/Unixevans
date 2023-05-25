@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://evankamalludin18.blogspot.com](https://evankamalludin18.blogspot.com)
+- 👨‍💻 All of my biodatas are available at [https://evankamalludin18.blogspot.com](https://evankamalludin18.blogspot.com)
 
 - 📫 How to reach me **proudin52@gmail.com**
 
